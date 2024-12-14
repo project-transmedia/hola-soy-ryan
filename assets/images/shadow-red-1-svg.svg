@@ -1,0 +1,16 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 548 889" width="548" height="889">
+	<title>shadow-1-svg</title>
+	<defs>
+		<filter x="-50%" y="-50%" width="200%" height="200%" id="f1"> <feGaussianBlur stdDeviation="125"/> </filter>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(544.06,-77.641,74.727,523.644,-184.673,639)">
+			<stop offset="0" stop-color="#cd0412"/>
+			<stop offset="1" stop-color="#f1110a"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { filter: url(#f1);fill: url(#g1) } 
+	</style>
+	<g style="opacity: .1">
+		<path class="s0" d="m41.5 639c-141.8 0-256.5-110.2-256.5-246.5 0-136.3 114.7-246.5 256.5-246.5 141.8 0 256.5 110.2 256.5 246.5 0 136.3-114.7 246.5-256.5 246.5z"/>
+	</g>
+</svg>
