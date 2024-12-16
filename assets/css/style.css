@@ -689,7 +689,7 @@ body.nav-active {
   position: relative;
 }
 
-.slider-card::before {
+/*.slider-card::before {
   content: "";
   position: absolute;
   bottom: 0;
@@ -698,7 +698,7 @@ body.nav-active {
   height: 50%;
   background-image: var(--gradient-3);
   border-radius: var(--radius-8);
-}
+}*/
 
 .slider-list .slider-banner {
   border-radius: var(--radius-8);
@@ -965,7 +965,7 @@ body.nav-active {
   position: relative;
 }
 
-.productos .slider-card::before {
+/*.productos .slider-card::before {
   content: "";
   position: absolute;
   bottom: 0;
@@ -974,7 +974,7 @@ body.nav-active {
   height: 50%;
   background-image: var(--gradient-3);
   border-radius: var(--radius-8);
-}
+}*/
 
 .productos .slider-list .slider-banner {
   border-radius: var(--radius-8);
